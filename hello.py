@@ -1,3 +1,3 @@
-# This program prints Hello, world!
+# Este programa genera un mensaje 
 
-print('Hello, world!')
+print('Hola Estudiantes IBERO!')
